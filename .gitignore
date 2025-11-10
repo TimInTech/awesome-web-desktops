@@ -23,4 +23,8 @@ yarn-debug.log*
 yarn-error.log*
 
 /.vscode
-report.html
+report.html.venv/
+node_modules/
+vendor/bundle/
+.bundle/
+.npm-cache/
